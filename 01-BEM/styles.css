@@ -1,0 +1,17 @@
+/* BEM: BLOQUE ELEMENTO MODIFICADOR, permite 
+    escribir los selectores css más rápida y evita la
+    repetición de código 
+    
+    
+    - Se usa 'class' en lugar de 'Id'.
+    
+    Class = aplicar estilos
+    Id = aplicar funcionalidad (javascript)
+    
+    .bloque
+    .bloque__elemento
+    .bloque__elemento-- modificador
+
+    */
+
+    
